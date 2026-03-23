@@ -27,4 +27,4 @@ MEMORY.md  → expensive lessons (compounds forever)
 
 ---
 
-By [Sid Sarasvati](https://x.com/sidjustice_). Bootstrapped CTO at [Renovate AI](https://renovateai.app).
+By [Sid Sarasvati](https://x.com/sidjustice_). Founder at [Renovate AI](https://renovateai.app).
